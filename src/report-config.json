@@ -1,0 +1,66 @@
+[
+  {
+    "dataField": "CompanyName",
+    "caption": "Company",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": true
+  },
+  {
+    "dataField": "State",
+    "caption": "State",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": true
+  },
+  {
+    "dataField": "City",
+    "caption": "City",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": true
+  },
+  {
+    "dataField": "Address",
+    "caption": "Address",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": false
+  },
+  {
+    "dataField": "Staff",
+    "caption": "Staff",
+    "dataType": "number",
+    "alignment": "left",
+    "visible": false
+  },
+  {
+    "dataField": "Phone",
+    "caption": "Phone",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": true
+  },
+  {
+    "dataField": "Email",
+    "caption": "Email",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": false
+  },
+  {
+    "dataField": "Fax",
+    "caption": "Fax",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": true
+  },
+  {
+    "dataField": "INN",
+    "caption": "INN",
+    "dataType": "string",
+    "alignment": "left",
+    "visible": false
+  }
+]
+

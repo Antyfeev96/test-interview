@@ -1,0 +1,50 @@
+.config-editor {
+  width: 30%;
+  padding: 5px;
+  border: 1px solid lightslategrey;
+
+  >div:nth-child(n + 2) {
+    margin-top: 15px;
+  }
+}
+
+.config-editor__title {
+
+}
+
+.columns-list {
+
+}
+
+.columns-list__item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  gap: 10px;
+
+  > input {
+    outline: none;
+  }
+
+  > i {
+    cursor: pointer;
+    font-size: 24px;
+
+    transition: color 0.3s ease-in-out;
+
+    &.dx-icon-trash:hover {
+      color: red;
+    }
+
+    &.dx-icon-edit:hover {
+      color: orange;
+    }
+
+  }
+
+  &:nth-child(n + 2) {
+    margin-top: 10px;
+  }
+}

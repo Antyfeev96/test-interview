@@ -1,0 +1,62 @@
+[
+  {
+    "companyID": 1,
+    "CompanyName": "Petrushka",
+    "State": "Saint-Petersburg",
+    "City": "Pushkin",
+    "Address": "Sikeyrosa street",
+    "Staff": 2000,
+    "Phone": "8-800-555-35-35",
+    "Email": "mail@spb.ru",
+    "Fax": "555-35-35",
+    "INN": 978653421
+  },
+  {
+    "companyID": 2,
+    "CompanyName": "Petrushka",
+    "State": "Saint-Petersburg",
+    "City": "Pushkin",
+    "Address": "Sikeyrosa street",
+    "Staff": 2000,
+    "Phone": "8-800-555-35-35",
+    "Email": "mail@spb.ru",
+    "Fax": "555-35-35",
+    "INN": 978653421
+  },
+  {
+    "companyID": 3,
+    "CompanyName": "Petrushka",
+    "State": "Saint-Petersburg",
+    "City": "Pushkin",
+    "Address": "Sikeyrosa street",
+    "Staff": 2000,
+    "Phone": "8-800-555-35-35",
+    "Email": "mail@spb.ru",
+    "Fax": "555-35-35",
+    "INN": 978653421
+  },
+  {
+    "companyID": 4,
+    "CompanyName": "Petrushka",
+    "State": "Saint-Petersburg",
+    "City": "Pushkin",
+    "Address": "Sikeyrosa street",
+    "Staff": 2000,
+    "Phone": "8-800-555-35-35",
+    "Email": "mail@spb.ru",
+    "Fax": "555-35-35",
+    "INN": 978653421
+  },
+  {
+    "companyID": 5,
+    "CompanyName": "Petrushka",
+    "State": "Saint-Petersburg",
+    "City": "Pushkin",
+    "Address": "Sikeyrosa street",
+    "Staff": 2000,
+    "Phone": "8-800-555-35-35",
+    "Email": "mail@spb.ru",
+    "Fax": "555-35-35",
+    "INN": 978653421
+  }
+]
